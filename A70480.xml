@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A common-councell holden in the chamber of the Guildhall of the city of London the 21 day of May, 1660</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70480</idno>
+            <idno type="STC">Wing L2852S</idno>
+            <idno type="STC">ESTC R37954</idno>
+            <idno type="EEBO-CITATION">17155288</idno>
+            <idno type="OCLC">ocm 17155288</idno>
+            <idno type="VID">105979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:10 or 1700:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A common-councell holden in the chamber of the Guildhall of the city of London the 21 day of May, 1660</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Alleyne, Thomas, Sir, fl. 1660.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Aleyn Mayor.</note>
+                  <note>"Ordered that the letter sent to His Majesty by this court in answer to His Majesties gracious letter and declaration be printed. Sadler."</note>
+                  <note>Item at reel position 1700:35 identified as Wing E2901 (number cancelled).</note>
+                  <note>Reproduction of originals in the Harvard University Library and Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105979:1"/>
+            <pb facs="tcp:105979:1" rendition="simple:additions"/>
+            <p>Aleyn Mayor.</p>
+            <p>
+               <hi>A</hi> Common-Councell Holden in the Chamber of the <hi>Guildhall</hi> of the City of <hi>London,</hi> the 21 day of <hi>May</hi> 1660.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered that the Letter ſent to His Majeſties by this Court in Anſwer to His Majeſties gra<g ref="char:EOLhyphen"/>cious Letter and Declaration be printed.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Sadler.</p>
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honou<g ref="char:EOLhyphen"/>rable City of <hi>London,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_seal">
+            <pb facs="tcp:105979:2"/>
+            <p>
+               <figure>
+                  <figDesc>Charles Royal blazon</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:105979:2"/>
+            <opener>
+               <salute>May it pleaſe your moſt Excellent Majeſty;</salute>
+            </opener>
+            <p>YOur Majeſties moſt loyal, humble, and affectionate Subjects, the May<g ref="char:EOLhyphen"/>or, Aldermen, and Commons of this Your City of <hi>London,</hi> being this day aſſem<g ref="char:EOLhyphen"/>bled in Common-council, received Your Majeſties gracious Letter and Declara<g ref="char:EOLhyphen"/>tion of the <hi>4/14 April</hi> laſt, by the hands of the Right Honourable the Lord Viſcount <hi>Mordant,</hi> and Sir <hi>John Greenvile,</hi> in which they finde, that God hath been plea<g ref="char:EOLhyphen"/>ſed at laſt to give a bountiful return to their conſtant Prayers, patient hopes, and loyal endeavours; by Your Majeſties own<g ref="char:EOLhyphen"/>ing and acceptance thereof, and by incli<g ref="char:EOLhyphen"/>ning Your Princely heart to deſcend ſo far,
+<pb n="2" facs="tcp:105979:3"/>not onely to impart to them Your Maje<g ref="char:EOLhyphen"/>ſties benign Declaration of Grace extended to Your Majeſties Subjects in general, but alſo to conveigh it to them under a particu<g ref="char:EOLhyphen"/>lar aſſurance of ſpecial Love &amp; tenderneſs to this City, to which they preſume not to entitle themſelves on any other account, then upon that of Your Majeſties gracious in<g ref="char:EOLhyphen"/>clinations; for they confeſs that all thoſe manifeſtations of their affections, for which Your Majeſty is pleaſed to put thoſe ſignal marks of favour upon this City, were but a partial payment of that duty which they owe to Your Majeſties right, as Subjects, and virtues, as Chriſtians. And there<g ref="char:EOLhyphen"/>fore, as they deſire to bleſs God for inclining the hearts of both Houſes of Parliament this day to expreſs their joyful ſenſe of, and their humble and hearty thanks for Your
+<pb n="3" facs="tcp:105979:3"/>Majeſties gracious offers: And to profeſs their loyalty and duty to Your Majeſty, ſo they deſire, that their entire and unani<g ref="char:EOLhyphen"/>mous concurrence therein, may in its place finde Your gracious acceptance, which they hope Your Majeſty will give them leave in all humility to claim when Your Majeſty ſhall have ſeen their encloſed Declaration and Vindication, which their innocence and affections warranted them to publiſh to the world, before they received the honour and encouragement of Your Majeſties Let<g ref="char:EOLhyphen"/>ter. And they cannot omit to acquaint Your Majeſty, that the moſt eminent and clear characters of Your Princely goodneſs expreſſed in this Your Letter and Decla<g ref="char:EOLhyphen"/>ration, hath, as by a miracle at once, bound them all up in one common band of Loyalty to Your Majeſty, and affection among
+<pb n="4" facs="tcp:105979:4"/>themſelves; and given them more then pregnant hopes, that God will ſodainly eſtabliſh Your Majeſty in an honourable and peaceful Government of theſe Your Kingdomes, and fixe You among them as the Center; in which all the oppoſite Lines of the diſtracted intereſts of this Nation will meet and acquieſce, to the glory of God, and the perpetual ſettlement, peace, and welfare of Your Subjects. They have en<g ref="char:EOLhyphen"/>truſted their fellow Members, <hi>Thomas Adams</hi> and <hi>Abraham Reynardſon</hi> Aldermen, <hi>William Wild</hi> Eſquire Re<g ref="char:EOLhyphen"/>corder, <hi>John Langham,</hi> Sir <hi>James Bunce</hi> Baronet, <hi>Richard Brown, William Tompſon, John Frede<g ref="char:EOLhyphen"/>rick, John Robinſon, Anthony Bateman</hi> and <hi>William Wale</hi> Alder<g ref="char:EOLhyphen"/>men, Sir <hi>Nicholas Criſp</hi> Knight,
+<pb n="5" facs="tcp:105979:4"/>
+               <hi>Theophilus Biddulph, William Bateman, William Vincent, Tho<g ref="char:EOLhyphen"/>mas Bludworth, Thomas Cham<g ref="char:EOLhyphen"/>berlen, Richard Ford, Laurence Bromfield &amp; John Lewes</hi> Eſquires, to preſent to Your Majeſties Royal hand this their humble and hearty profeſsion of duty and affection, and with it a ſmall earneſt of the reality thereof, which though it be extremely diſproportionable to Your Royal Dignity, and the meaſure of their zeal to Your ſervice, yet they begge moſt in<g ref="char:EOLhyphen"/>ſtantly that it may finde Your gracious ac<g ref="char:EOLhyphen"/>ceptance, as comming from that City which have been the greateſt ſharers in the many and heavy preſſures and loſſes that have be<g ref="char:EOLhyphen"/>fallen Your Subjects during the want of Your Royal Protection. And aſſuring Your Majeſty of their continued prayers to God
+<pb n="6" facs="tcp:105979:5"/>for Your Majeſties ſpeedy and ſafe return into theſe Your panting Dominions, that Your Majeſty may enjoy your undoubted le<g ref="char:EOLhyphen"/>gal Soveraignty, and we your Subjects, the long'd-for influence thereof, by your main<g ref="char:EOLhyphen"/>taining them in the exerciſe of the Prote<g ref="char:EOLhyphen"/>ſtant Religion according to the Scriptures, and the example of the beſt Reformed Churches, and injoyment of our civil liber<g ref="char:EOLhyphen"/>ties and properties according to the ancient fundamental Laws of this Nation, and thoſe other immunities and favours expreſ<g ref="char:EOLhyphen"/>ſed in your Majeſties Letter and Decla<g ref="char:EOLhyphen"/>ration;</p>
+            <closer>
+               <dateline>We doe moſt humbly take leave, and have hereunto ſet the ſeal of this your Majeſties Royal Chamber the City of <hi>London,</hi> 
+                  <date>the firſt of <hi>May 1660.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:105979:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
